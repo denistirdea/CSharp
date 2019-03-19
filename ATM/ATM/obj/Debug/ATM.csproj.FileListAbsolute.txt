@@ -1,0 +1,23 @@
+D:\ATM\ATM\bin\Debug\ATM.exe.config
+D:\ATM\ATM\bin\Debug\ATM.exe
+D:\ATM\ATM\bin\Debug\ATM.pdb
+D:\ATM\ATM\obj\Debug\ATM.Form1.resources
+D:\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+D:\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.Cache
+D:\ATM\ATM\obj\Debug\ATM.exe
+D:\ATM\ATM\obj\Debug\ATM.pdb
+D:\ATM\ATM\obj\Debug\ATM.Form2.resources
+D:\ATM\ATM\obj\Debug\ATM.csprojResolveAssemblyReference.cache
+D:\ATM\ATM\obj\Debug\ATM.Operatii.resources
+D:\Proiecte personale\C# dotNet\ATM\ATM\bin\Debug\ATM.exe.config
+D:\Proiecte personale\C# dotNet\ATM\ATM\bin\Debug\ATM.exe
+D:\Proiecte personale\C# dotNet\ATM\ATM\bin\Debug\ATM.pdb
+D:\Proiecte personale\C# dotNet\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+D:\Proiecte personale\C# dotNet\ATM\ATM\obj\Debug\ATM.Form1.resources
+D:\Proiecte personale\C# dotNet\ATM\ATM\obj\Debug\ATM.Form2.resources
+D:\Proiecte personale\C# dotNet\ATM\ATM\obj\Debug\ATM.Operatii.resources
+D:\Proiecte personale\C# dotNet\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+D:\Proiecte personale\C# dotNet\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+D:\Proiecte personale\C# dotNet\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+D:\Proiecte personale\C# dotNet\ATM\ATM\obj\Debug\ATM.exe
+D:\Proiecte personale\C# dotNet\ATM\ATM\obj\Debug\ATM.pdb

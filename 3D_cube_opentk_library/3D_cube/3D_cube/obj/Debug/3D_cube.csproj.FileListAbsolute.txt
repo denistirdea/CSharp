@@ -1,0 +1,12 @@
+D:\Proiecte personale\C# dot.NET\3D_cube_opentk_library\3D_cube\3D_cube\obj\Debug\3D_cube.csprojAssemblyReference.cache
+D:\Proiecte personale\C# dot.NET\3D_cube_opentk_library\3D_cube\3D_cube\obj\Debug\3D_cube.csproj.CoreCompileInputs.cache
+D:\Proiecte personale\C# dot.NET\3D_cube_opentk_library\3D_cube\3D_cube\bin\Debug\3D_cube.exe.config
+D:\Proiecte personale\C# dot.NET\3D_cube_opentk_library\3D_cube\3D_cube\bin\Debug\3D_cube.exe
+D:\Proiecte personale\C# dot.NET\3D_cube_opentk_library\3D_cube\3D_cube\bin\Debug\3D_cube.pdb
+D:\Proiecte personale\C# dot.NET\3D_cube_opentk_library\3D_cube\3D_cube\bin\Debug\OpenTK.dll
+D:\Proiecte personale\C# dot.NET\3D_cube_opentk_library\3D_cube\3D_cube\bin\Debug\OpenTK.GLControl.dll
+D:\Proiecte personale\C# dot.NET\3D_cube_opentk_library\3D_cube\3D_cube\bin\Debug\OpenTK.xml
+D:\Proiecte personale\C# dot.NET\3D_cube_opentk_library\3D_cube\3D_cube\bin\Debug\OpenTK.GLControl.xml
+D:\Proiecte personale\C# dot.NET\3D_cube_opentk_library\3D_cube\3D_cube\obj\Debug\3D_cube.csproj.CopyComplete
+D:\Proiecte personale\C# dot.NET\3D_cube_opentk_library\3D_cube\3D_cube\obj\Debug\3D_cube.exe
+D:\Proiecte personale\C# dot.NET\3D_cube_opentk_library\3D_cube\3D_cube\obj\Debug\3D_cube.pdb

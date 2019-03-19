@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Tirdea_Denis_Alexandru_3133A.DataBaseConnection">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAABAAAAAAQAACAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBaseConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.AddClientToProperty">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAACAAAAAAACAAAAAAACEACAAQAAA=</HashCode>
+      <FileName>OptionForms\Atribuie\AddClientToProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.AtribuieClient" Collapsed="true">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAABACAAABAAAACAAABCAAAMAAAAEEAAAAAAAAI=</HashCode>
+      <FileName>OptionForms\Atribuie\AtribuieClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.AddClient" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAUBACAgABAQAACAKAByAAAIAAAAMEBAAAAAAgA=</HashCode>
+      <FileName>OptionForms\Client Option\AddClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.Client">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIAAAABAQAAAAAAAgAgAACAAAAAAAAADCAAAAAQ=</HashCode>
+      <FileName>OptionForms\Client Option\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.ClientOption">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAA4AAAAAHAAAAAAAAA=</HashCode>
+      <FileName>OptionForms\Client Option\ClientOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.DeleteClient">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAACAAABAAAACAAABCAAAIAAAAEEBEAAAAAAA=</HashCode>
+      <FileName>OptionForms\Client Option\DeleteClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.UpdateClient">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQBACAAABAQAACAAABCAAAIAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>OptionForms\Client Option\UpdateClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.AddProperty" Collapsed="true">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>8yAAAAQAASAggHSQAACACABSIAAIAAAAEOgHAAAACAA=</HashCode>
+      <FileName>OptionForms\Property Option\AddProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.DeleteProperty">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAABCAAAIAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>OptionForms\Property Option\DeleteProperty.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.Property">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABiAAAAAAAAAAAAAAAAwAICIEkIAAoKAAwNAABEgIA=</HashCode>
+      <FileName>OptionForms\Property Option\Property.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.PropertyOption">
+    <Position X="5.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAoAAAAAHAAAAAAAAA=</HashCode>
+      <FileName>OptionForms\Property Option\PropertyOption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.Program">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.SQLMenuOracle" Collapsed="true">
+    <Position X="2.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAQAACAgABAQAgCAAAACAMg7ACAAEHQPAAEAAAA=</HashCode>
+      <FileName>SQLMenuOracle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.Properties.Resources">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAQAAAAAAAABEAAAAQAAAAAAAAgAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tirdea_Denis_Alexandru_3133A.Properties.Settings">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
