@@ -1,0 +1,5 @@
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\MasinaEnigma\obj\Debug\MasinaEnigma.csprojAssemblyReference.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\MasinaEnigma\obj\Debug\MasinaEnigma.Form1.resources
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\MasinaEnigma\obj\Debug\MasinaEnigma.Properties.Resources.resources
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\MasinaEnigma\obj\Debug\MasinaEnigma.csproj.GenerateResource.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\MasinaEnigma\obj\Debug\MasinaEnigma.csproj.CoreCompileInputs.cache

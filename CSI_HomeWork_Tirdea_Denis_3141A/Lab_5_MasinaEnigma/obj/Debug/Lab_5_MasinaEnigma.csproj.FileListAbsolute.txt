@@ -1,0 +1,15 @@
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\MasinaEnigma\obj\Debug\Lab_5_MasinaEnigma.csprojAssemblyReference.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\MasinaEnigma\obj\Debug\MasinaEnigma.Form1.resources
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\MasinaEnigma\obj\Debug\MasinaEnigma.Properties.Resources.resources
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\MasinaEnigma\obj\Debug\Lab_5_MasinaEnigma.csproj.GenerateResource.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\MasinaEnigma\obj\Debug\Lab_5_MasinaEnigma.csproj.CoreCompileInputs.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_5_MasinaEnigma\bin\Debug\MasinaEnigma.exe.config
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_5_MasinaEnigma\bin\Debug\MasinaEnigma.exe
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_5_MasinaEnigma\bin\Debug\MasinaEnigma.pdb
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_5_MasinaEnigma\obj\Debug\Lab_5_MasinaEnigma.csprojAssemblyReference.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_5_MasinaEnigma\obj\Debug\MasinaEnigma.Properties.Resources.resources
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_5_MasinaEnigma\obj\Debug\Lab_5_MasinaEnigma.csproj.GenerateResource.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_5_MasinaEnigma\obj\Debug\Lab_5_MasinaEnigma.csproj.CoreCompileInputs.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_5_MasinaEnigma\obj\Debug\MasinaEnigma.exe
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_5_MasinaEnigma\obj\Debug\MasinaEnigma.pdb
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_5_MasinaEnigma\obj\Debug\MasinaEnigma.gui.resources

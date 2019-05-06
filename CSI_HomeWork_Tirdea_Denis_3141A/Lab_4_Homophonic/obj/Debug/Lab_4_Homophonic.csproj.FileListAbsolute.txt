@@ -1,0 +1,10 @@
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_4_Homophonic\bin\Debug\Lab_4_Homophonic.exe.config
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_4_Homophonic\bin\Debug\Lab_4_Homophonic.exe
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_4_Homophonic\bin\Debug\Lab_4_Homophonic.pdb
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_4_Homophonic\obj\Debug\Lab_4_Homophonic.csprojAssemblyReference.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_4_Homophonic\obj\Debug\Lab_4_Homophonic.Homophonic.resources
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_4_Homophonic\obj\Debug\Lab_4_Homophonic.Properties.Resources.resources
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_4_Homophonic\obj\Debug\Lab_4_Homophonic.csproj.GenerateResource.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_4_Homophonic\obj\Debug\Lab_4_Homophonic.csproj.CoreCompileInputs.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_4_Homophonic\obj\Debug\Lab_4_Homophonic.exe
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_4_Homophonic\obj\Debug\Lab_4_Homophonic.pdb

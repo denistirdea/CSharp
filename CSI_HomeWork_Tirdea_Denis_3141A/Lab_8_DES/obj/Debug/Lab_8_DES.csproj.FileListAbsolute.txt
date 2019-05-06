@@ -1,0 +1,10 @@
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_8_DES\obj\Debug\Lab_8_DES.gui.resources
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_8_DES\obj\Debug\Lab_8_DES.Properties.Resources.resources
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_8_DES\obj\Debug\Lab_8_DES.csproj.GenerateResource.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_8_DES\obj\Debug\Lab_8_DES.csproj.CoreCompileInputs.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_8_DES\bin\Debug\Lab_8_DES.exe.config
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_8_DES\bin\Debug\Lab_8_DES.exe
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_8_DES\bin\Debug\Lab_8_DES.pdb
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_8_DES\obj\Debug\Lab_8_DES.exe
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_8_DES\obj\Debug\Lab_8_DES.pdb
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_8_DES\obj\Debug\Lab_8_DES.csprojAssemblyReference.cache

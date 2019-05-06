@@ -1,0 +1,10 @@
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_3_ADFGVX\bin\Debug\Lab_3_ADFGVX.exe.config
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_3_ADFGVX\bin\Debug\Lab_3_ADFGVX.exe
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_3_ADFGVX\bin\Debug\Lab_3_ADFGVX.pdb
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_3_ADFGVX\obj\Debug\Lab_3_ADFGVX.csprojAssemblyReference.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_3_ADFGVX\obj\Debug\Lab_3_ADFGVX.gui.resources
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_3_ADFGVX\obj\Debug\Lab_3_ADFGVX.Properties.Resources.resources
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_3_ADFGVX\obj\Debug\Lab_3_ADFGVX.csproj.GenerateResource.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_3_ADFGVX\obj\Debug\Lab_3_ADFGVX.csproj.CoreCompileInputs.cache
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_3_ADFGVX\obj\Debug\Lab_3_ADFGVX.exe
+D:\Chestii Facultate\AN IV\CSI\CSI_HomeWork_Tirdea_Denis_3141A\Lab_3_ADFGVX\obj\Debug\Lab_3_ADFGVX.pdb
